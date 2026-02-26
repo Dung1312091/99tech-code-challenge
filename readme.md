@@ -14,4 +14,10 @@ We're cool as long as we can view your solution without any pain.
 ```bash
 # Problem 1 - Three implementations of sum_to_n
 node src/problem1/sum-to-n.js
+
+# Problem 2 - Currency Swap Form (React + Vite + TypeScript + Tailwind)
+cd src/problem2
+npm install
+npm run dev
+# Open http://localhost:5173
 ```
